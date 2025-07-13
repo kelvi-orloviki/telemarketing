@@ -57,7 +57,7 @@ def main():
     st.markdown("---")
     
     # Apresenta a imagem na barra lateral da aplicação
-    image = Image.open("C:/Users/Kelvi Orloviki/Desktop/EBAC/Profissão Cientista de Dados/Cientista de Dados/Módulo 19 - (Desenvolvimento Modelos com Pandas e Python) - Streamlit II/Tarefa 1/img/Bank-Branding.jpg")
+    image = Image.open("C:/Users/Kelvi Orloviki/Desktop/EBAC/Profissão Cientista de Dados/Cientista de Dados/Módulo 28 - (Gestão avançada de Dados e Desenvolvimento de aplicações) - Streamlit III, IV/telemarketing/img/Bank-Branding.jpg")
     st.sidebar.image(image)
 
     # Botão para carregar arquivo na aplicação
